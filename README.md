@@ -14,7 +14,7 @@ it is fully responsive website and can ajdust according to every type of device
 
 
 i took help from
-angela yu complete fullstack bootcamp course oon udeemy
+angela yu complete fullstack bootcamp course on udemy
 stackoverflow
 codepen
 
